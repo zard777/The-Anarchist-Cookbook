@@ -1,0 +1,34 @@
+https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit#gid=937533738
+https://github.com/chouaibhm/OSCP-Survival-Guide-1/blob/master/README.md
+http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/
+https://bitvijays.github.io/LFC-VulnerableMachines.html
+https://www.google.com/search?q=oscp+preperation&rlz=1C1CHBF_enUS746US746&oq=oscp+pr&aqs=chrome.0.69i59j35i39j69i60j69i57j69i60l2.2312j0j7&sourceid=chrome&ie=UTF-8 | oscp preperation - Google Search
+http://overthewire.org/wargames/ | OverTheWire: Wargames
+http://linuxcommand.org/ | LinuxCommand.org: Learn the Linux command line. Write shell scripts.
+http://www.pentesteracademy.com/course?id=1 | Python for Pentesters
+http://www.securitytube.net/groups?operation=view&groupId=10 | www.securitytube.net/groups?operation=view&groupId=10
+https://www.offensive-security.com/metasploit-unleashed/ | Metasploit Unleashed - Free Online Ethical Hacking Course
+https://www.youtube.com/watch?v=1S0aBV-Waeo | Buffer Overflow Attack - Computerphile - YouTube
+http://www.securitytube.net/groups?operation=view&groupId=5 | www.securitytube.net/groups?operation=view&groupId=5
+http://www.securitytube.net/groups?operation=view&groupId=7 | www.securitytube.net/groups?operation=view&groupId=7
+http://www.0daysecurity.com/penetration-testing/enumeration.html | Penetration Testing Methodology - 0DAYsecurity.com
+https://nmap.org/nsedoc/
+https://www.youtube.com/watch?v=Hk-21p2m8YY
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/ | lanmaster53.com
+https://netsec.ws/?p=331 | Creating Metasploit Payloads
+http://www.fuzzysecurity.com/tutorials/16.html | FuzzySecurity | Windows Privilege Escalation Fundamentals
+https://www.youtube.com/watch?v=kMG8IsCohHA | Encyclopaedia Of Windows Privilege Escalation - Brett Moore - YouTube
+https://www.youtube.com/watch?v=PC_iMqiuIRQ | Level Up! Practical Windows Privilege Escalation - Andrew Smith - YouTube
+https://github.com/GDSSecurity/Windows-Exploit-Suggester | GitHub - GDSSecurity/Windows-Exploit-Suggester: This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ | Basic Linux Privilege Escalation
+https://www.youtube.com/watch?v=dk2wsyFiosg | Its Too Funky In Here04 Linux privilege escalation for fun profit and all around mischief Jake Willi - YouTube
+http://pentestmonkey.net/tools/audit/unix-privesc-check | unix-privesc-check | pentestmonkey
+http://www.abatchy.com/2017/02/oscp-like-vulnhub-vms.html | abatchy's blog | OSCP-like Vulnhub VMs
+https://www.hackthebox.eu/ | Hack The Box :: Penetration Testing Labs
+https://forums.offensive-security.com/
+https://netsecfocus.slack.com/ | Slack
+http://www.timothydeblock.com/eis/98 | How to prepare for the OSCP - Part 1 — Timothy De Block
+https://www.cybrary.it/0p3n/prep-guide-offsecs-pwkoscp/ | Prep Guide for Offsec's PWK/OSCP - Cybrary
+https://www.cybrary.it/forums/topic/how-to-prepare-oscp/ | How to prepare OSCP? - Penetration Testing - Cybrary
+https://www.reddit.com/r/oscp/ | Resource for people preparing for Offensive security Certified Penetration Tester
