@@ -113,6 +113,9 @@ OSCP Course Review
 <span id="_u0jmfst1vd5j" class="anchor"><span id="_Toc480741800" class="anchor"></span></span>Essentials
 ========================================================================================================
 
+-   SANS courses 
+    [*https://www.sans.org/curricula/*](https://www.sans.org/curricula)
+
 -   Exploit-db  
     [*https://www.exploit-db.com/*](https://www.exploit-db.com/)
 
